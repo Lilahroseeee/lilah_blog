@@ -19,24 +19,24 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Film blog
-email: your-email@example.com
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   This is my great blog where I talk about all things film, english, and random bits
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: Lilahroseeee
+github_username: ""
 
 # Chirpy theme settings
 img_cdn: ""
-avatar: /assets/img/ferris.jpg
+# avatar: /assets/img/avatar-placeholder.jpg
 lang: en
 timezone: UTC
 
 # Social settings
-social:
-  - {icon: 'fab fa-github', link: 'https://github.com/Lilahroseeee'}
-# If you use another network (Mastodon, Instagram, etc.) add it here. Example:
-#  - {icon: 'fab fa-mastodon', link: 'https://mastodon.example/@yourhandle'}
+social: []
+# Add social links if desired. 
+# social:
+#   - {icon: 'fab fa-github', link: 'https://github.com/yourhandle'}
 
 # Build settings
 theme: jekyll-theme-chirpy
