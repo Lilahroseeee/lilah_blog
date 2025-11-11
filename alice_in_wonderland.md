@@ -1,12 +1,3 @@
----
-layout: post
-title:  "Queering or Adhearing - Alice in Wonderland"
-date:   2025-11-09 18:35:16 +0000
-categories: blog
-image: /assets/img/aesthetic.jpg
-author: Lilah Rat
----
- 
 Throughout this essay, I will explore how ‘*Alice in Wonderland’ (2010)* is either queering or adhering to typical gender stereotypes and familial roles within British Film, and how my perspective of the film being queering has changed after multiple viewings. I will keep a particular focus on director *Tim Burton* queering typical gender roles in both film genres and across historical time periods and worlds by dissecting the role of Alice as a woman in Victorian society, and interrogating Alice’s role in Wonderland itself.
 
 A particularly important factor to consider whilst exploring the idea of queer identity or queering cinema is that “The queer must insist on disturbing” (Edelman). In the case of *Alice in Wonderland*, the time period and setting are key. Set in the Victorian era, gender norms and standards were even more prominent than in modern-day society. In some ways, director *Tim Burton* is able to queer the gender norms effectively. One example is the wardrobe (*Colleen Attwood*) Alice (*Mia Wasikowska*) wears, we see this clearly at the beginning when *Alice* is seen in a dress, although without a corset. She states: “Who’s to say what is proper? What if it was agreed that ‘proper’ was wearing a codfish on your head? To me, wearing a corset is like a codfish.” (2:57-4:30). Here, we immediately see Alice queering gender norms, as she questions the Victorian societal standards. Later, we see Alice in a suit of armour, which again, queers typical gender norms of the hyper-masculine hero. The use of feminine elements within the armour reinforces this narrative, without forcing Alice into the masculine role of the Hollywood hero. However, this rejection of ‘girlieness’ can also be read as a critique of womanhood and those who choose to embrace femininity “She is remarkable: stubborn, brave, non-girlie… an Alice ‘with gravity.’” (Dos Santos). Furthermore, in this sequence, the film is perhaps not queering particularly in its cinematography and filmic style; the continuous use of ‘over the shoulder’ and ‘mid shots’ is prominent, with a particular lack of experimental filmic style. Similarly, the typical idea of the Victorian Monarchy is also queered by the Red and White Queens, as it would have been uncommon in the Victorian era to have a woman at the head of the monarchy. Continually, they are direct juxtapositions of each other, being perhaps exaggerated stereotypes of good and evil. This can be seen not only through their classic colour palettes (Red representing evil, and white symbolic of good), but also in their gender representation. Throughout the film, the Red Queen perhaps takes on a more masculine tone, whilst the White Queen presents an exaggerated, almost absurdist, feminine persona. They are direct foils of each other, used to ironically dissect typical roles that women often fall into or, more frequently, are forced into within Hollywood standards.
@@ -24,13 +15,18 @@ Overall, the Tim Burton film ‘Alice in Wonderland’, inherently queers Hollyw
 * The Anarchist Library. (2020). *No Future*. [online] Available at: <https://theanarchistlibrary.org/library/lee-edelman-no-future> [Accessed 11 Nov. 2025].
 * Exeter.ac.uk. (2025). *Sign in to your account*. [online] Available at: <https://ele.exeter.ac.uk/pluginfile.php/4897230/course/section/1759514/Freccero%20-%20Queer-Early-Modern.pdf> [Accessed 11 Nov. 2025].
 
-* HeinOnline. (2021). *About  HeinOnline*. [online] Available at: <https://heinonline.org/HOL/LandingPage?handle=hein.journals/fmlcr17&div=4&id=&page=> [Accessed 11 Nov. 2025].
+‌
+
+* HeinOnline. (2021). *About | HeinOnline*. [online] Available at: <https://heinonline.org/HOL/LandingPage?handle=hein.journals/fmlcr17&div=4&id=&page=> [Accessed 11 Nov. 2025].
+
+‌
 
 * Exeter.ac.uk. (2025). *Redirecting*. [online] Available at: <https://ele.exeter.ac.uk/pluginfile.php/4897230/course/section/1759513/Halberstam%20-%20Wild%20Things.pdf> [Accessed 11 Nov. 2025].
 * Santos, D.L.V. dos, Eller, E.N. and Santos, I.D.B. dos (2024). Eu faço meu destino: uma análise do marcador social de gênero no filme Alice no País das Maravilhas. *Diálogo com a Economia Criativa*, [online] 9(27), pp.40–56. doi: <https://doi.org/10.22398/2525-2828.092740-56>.
 * Google Docs. (n.d.). *Preprint 2020-11-20 Societal Pressures, Safety, and Online Labelling - Investigating LGBTQ Self-Identification in an Online Space.pdf*. [online] Available at: <https://drive.google.com/file/d/1w0DdsGDCfWyL37IYTF5ZBRsNh1IfpQwG/view>.
 
+‌
+
 * Compton, D., Blumer, M.L.C. and Boeckmann, R.J. (2011). Alice in Wonderland. *Journal of Feminist Family Therapy*, 23(1), pp.54–59. Doi: <https://doi.org/10.1080/08952833.2011.548707>
 
 ‌
-

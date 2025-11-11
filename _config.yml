@@ -27,6 +27,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Lilahroseeee
 github_username: ""
 
+# Site author (used by the theme to render author name and social links)
+author:
+  name: "Lilah Rose"
+  email: your-email@example.com
+  url: "https://github.com/Lilahroseeee"
+  avatar: /assets/img/ferris.jpg
+  # Theme may read social either at top-level or under author; keep a copy here
+  social:
+    - {icon: 'fab fa-github', link: 'https://github.com/Lilahroseeee'}
+
 # Chirpy theme settings
 img_cdn: ""
 # avatar: /assets/img/avatar-placeholder.jpg

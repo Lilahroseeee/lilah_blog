@@ -1,0 +1,8 @@
+lilah:
+  name: "Lilah Rose"
+  email: your-email@example.com
+  url: "https://github.com/Lilahroseeee"
+  avatar: /assets/img/ferris.jpg
+  bio: "Film student and writer."
+  social:
+    - {icon: 'fab fa-github', link: 'https://github.com/Lilahroseeee'}
