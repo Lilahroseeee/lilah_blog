@@ -1,26 +1,39 @@
 {
   "name": "Jekyll Blog Development",
   "image": "mcr.microsoft.com/devcontainers/jekyll:latest",
-  
+
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
   },
-  
+
   "customizations": {
     "vscode": {
       "extensions": [
         "davidanson.vscode-markdownlint",
-        "shd101wyy.markdown-preview-enhanced"
+        "shd101wyy.markdown-preview-enhanced",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
       ]
     }
   },
-  
-  // installing gems
-  "postCreateCommand": "bundle install",
-  
+
+  // Add language/runtime features (Python + Node); keep Git available
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.11"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    },
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+
+  // installing gems and python markdown-related packages
+  "postCreateCommand": "bundle install && python3 -m pip install --upgrade pip && python3 -m pip install markdown-it-py markdown",
+
   // Automatically forward the port used by jekyll serve
   "forwardPorts": [4000],
-  
+
   // Run the Jekyll server when the Codespace starts
   "postAttachCommand": "bundle exec jekyll serve --host 0.0.0.0 --port 4000"
 }
